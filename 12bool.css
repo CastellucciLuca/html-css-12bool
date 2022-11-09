@@ -1,3 +1,14 @@
+/*-RESET-*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
 /* COLOMUNS */
 [class*="col-"] {
     background-color: blue;
