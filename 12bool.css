@@ -15,7 +15,7 @@
 [class*="col-" ]{
     flex: 0 0 auto;
 
-    background-color: blue;
+    background-color: #006cfa;
     color: white;
 
     margin: .5rem;
