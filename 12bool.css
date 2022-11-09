@@ -33,7 +33,7 @@
 
 .col-3{
     flex-basis: calc((100% / 12) * 3 - 1rem);
-    max-width: calc((100% / 12) * 3 - 1rem;
+    max-width: calc((100% / 12) * 3 - 1rem);
 }
 
 .col-4{
