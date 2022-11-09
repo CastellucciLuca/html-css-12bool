@@ -8,7 +8,24 @@
 section{
     margin-bottom: 1rem;
 }
-.nested-green{
+div.col-1,
+div.col-2,
+div.col-3,
+div.col-4,
+div.col-5,
+div.col-6,
+div.col-7,
+div.col-8,
+div.col-9,
+div.col-10,
+div.col-11,
+div.col-12{
+    background-color: #006cfa;
+    color: white;
+
+    margin: .5rem;
+}
+#nested-green{
     background-color: #01e165;
     height: 50px;
 }
