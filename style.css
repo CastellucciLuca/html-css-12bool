@@ -5,9 +5,16 @@
     box-sizing: border-box;
 }
 /* GENERAL */
+body{
+    background-color: black; /*-*/
+}
+section{
+    margin: 1rem 0;
+}
 .container{
     max-width: 1200px;
     margin: 0 auto;
+    background-color: white; /*-*/
 }
 .row{
     display: flex;
