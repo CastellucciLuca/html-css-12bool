@@ -1,13 +1,13 @@
 
 /* GENERAL */
 body{
-    background-color: black; /*-*/
+    /*background-color: black; -*/
 }
 section{
     margin-bottom: 2rem;
 }
 .nested-green{
-    background-color: lightgreen;
+    background-color: rgba(94, 255, 0, 0.952);
     height: 50px;
 }
 .container{
