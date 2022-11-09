@@ -1,18 +1,22 @@
-
-/* GENERAL */
-body{
-    /*background-color: black; -*/
+/*-RESET-*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
+/* GENERAL */
 section{
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
 }
 .nested-green{
-    background-color: rgba(94, 255, 0, 0.952);
+    background-color: rgba(0, 255, 13, 0.952);
     height: 50px;
 }
-.container{
-    max-width: 1400px;
-    margin: 0 auto;
-    background-color: white; /*-*/
+.flex-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
-
+.col-height{
+    height: 50px;
+}
