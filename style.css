@@ -9,7 +9,7 @@ section{
     margin-bottom: 1rem;
 }
 .nested-green{
-    background-color: rgba(0, 255, 13, 0.952);
+    background-color: #01e165;
     height: 50px;
 }
 .flex-center{
